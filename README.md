@@ -3,5 +3,5 @@ Scrivi un programma che stampi in console i numeri da 1 a 100, ma che per i mult
 SOLUZIONE: creare un ciclo FOR per i < 100, stampando tutti i numeri da 1 a 100.
 quando dovrà stampare 3 o i suoi multipli il numero sarà sostituito dalla scritta FRIZZ
 quando dovrà stampare 5 o i suoi multipli il numero sarà sostituito dalla scritta BUZZ
-quando dovrà stampare 3 E 5 o i loro multipli il numero sarà sostituito dalla scritta FRIZZBUZZ
+quando dovrà stampare 3 E 5 o i loro multipli il numero sarà sostituito dalla scritta FRIZZBUZZ.
 
